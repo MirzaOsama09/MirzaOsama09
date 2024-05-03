@@ -6,7 +6,6 @@ A passionate full-stack developer..!!
 
 *   🌍  I'm based in Lahore, Pakistan
 *   ✉️  You can contact me at [mirza.osama96@gmail.com](mailto:mirza.osama96@gmail.com)
-*   🧠  I'm learning React
 
 ### Skills 
 <p align="left">
